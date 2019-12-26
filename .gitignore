@@ -5,3 +5,5 @@
 
 # do not ignore myself!
 !.gitignore
+
+.DS_Store
